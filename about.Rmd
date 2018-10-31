@@ -1,4 +1,4 @@
 ---
 title: "About"
 ---
-Hello world
+Hi this is team Solo - Xinrui, Aciele and Kostas 
